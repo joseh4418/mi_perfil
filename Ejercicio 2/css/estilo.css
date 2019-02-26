@@ -1,0 +1,40 @@
+p {
+    margin: 0px 50px 0px 100px;
+    padding:20px;
+	text-align: center;
+	border-radius: 50px 0px 50px 0px;
+}
+img {
+
+  border: 5px solid white;
+  margin: 0px 50px 0px 100px;
+	padding:20px;
+	border-radius: 100px 100px 100px 100px;
+	box-shadow: 0px 0px 20px 5px white;
+
+}
+#email{
+	
+    border: none;
+    width: 200px;
+    height: 30px;
+}
+
+body {
+	text-align: center;
+	background: url(../img/delta.jpg);
+	background-size: cover;
+}
+
+p { color: white;
+
+}
+#jenviar{
+	border: red;
+	color: white;
+	background: red;
+	height: 35px;
+	width: 60px;
+
+
+}
